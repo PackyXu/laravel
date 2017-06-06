@@ -22,3 +22,9 @@ laravel
 5.	ls
 
 6.	php -S localhost:9000 -t public  或者执行 php artisan serve
+
+7.	php artisan 查看 php artisan 所有命令
+
+8.	php artisan make:controller IndexController  使用make:controller filename 命令创建一个控制器
+
+9.	
